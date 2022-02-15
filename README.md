@@ -1,4 +1,4 @@
-- 👋 Hey,guys. I’m Bruce,but not bruvr lee.I am Bruce Xing.A lonely boy is me.
+- 👋 Hey,guys. I’m Bruce,but not Bruce lee.I am Bruce Xing.A lonely boy is me.
 - 👀 I’m interested in self_driving automotive...
 - 🌱 I’m currently learning python,ros,c++.
 
