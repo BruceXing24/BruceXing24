@@ -1,5 +1,5 @@
-- 🔧👦🔧 Hey,guys. I’m Bruce,but not Bruce lee. I am Bruce Xing. I am Iron Man and I love you three thousands.
-- 😍🔧😍 I’m interested in self_driving automotive and robot,currently  I am studying in FH Aachen in Germany.
+- 🔧👦🔧 Hey,guys. I. I am Bruce Xing. 
+- 😍🔧😍 I’m interested in self_driving automotive and robot,currently  I am studying in FH Aachen.
 - 🔧👦🔧 currently learning python,ros,c++ and a lot...
 
 
